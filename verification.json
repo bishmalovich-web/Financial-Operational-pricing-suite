@@ -1,0 +1,18 @@
+{
+  "version": "v6.1",
+  "rememberPassword": true,
+  "quantityUnits": {
+    "By Weight": "kg",
+    "By Length": "m",
+    "By Imp": "IMP"
+  },
+  "moqTrafficLight": true,
+  "outputs": [
+    "Total weight",
+    "Total length",
+    "Price per 1,000 m EUR",
+    "Price per 1,000 m USD"
+  ],
+  "internalUse": true,
+  "printingPlateNote": "Price excludes printing plates; EUR 300 per design"
+}
