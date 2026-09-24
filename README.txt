@@ -1,4 +1,4 @@
-TIPA Pricing Calculator Financial and Operational Use Only v6.1
+Financial-Operational-pricing-suite 24.09.2026
 Password: Success2026
-Printing plate note updated to EUR 300 per design. All V6 functionality retained.
+Updated from Updated Model_24.09.2026_2.xlsx.
 Upload all extracted files to the GitHub repository root and replace older files.
