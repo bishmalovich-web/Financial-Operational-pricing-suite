@@ -1,5 +1,5 @@
 {
-  "version": "24.09.2026",
+  "version": "24.09.2026-ui-fix",
   "sourceWorkbook": "Updated Model_24.09.2026_2.xlsx",
   "laminateValidationRows": 252,
   "pouchValidationRows": 541,
@@ -7,5 +7,20 @@
   "bagReferences": 3,
   "productionRecords": 1173,
   "printingPlateEURPerDesign": 300,
-  "password": "Success2026"
+  "password": "Success2026",
+  "uiTerms": [
+    "Producer",
+    "Shipping Terms",
+    "EXW",
+    "Units",
+    "Total Quantity",
+    "Core size",
+    "IMP Height / Width",
+    "Laminate Length",
+    "Total Cost (\u20ac)",
+    "Total Cost ($)",
+    "Cost/Kg (\u20ac)",
+    "Cost/Kg ($)",
+    "Cost/Kg (verify)"
+  ]
 }

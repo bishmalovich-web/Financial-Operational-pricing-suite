@@ -1,4 +1,4 @@
-Financial-Operational-pricing-suite 24.09.2026
+Financial-Operational-pricing-suite 24.09.2026 UI Fix
 Password: Success2026
-Updated from Updated Model_24.09.2026_2.xlsx.
-Upload all extracted files to the GitHub repository root and replace older files.
+UI aligned to latest Excel terminology: Producer, Shipping Terms/EXW, Units, Total Quantity, Core size, IMP Height/Width, Laminate Length and current cost labels.
+Upload all extracted files to the GitHub repository root.
